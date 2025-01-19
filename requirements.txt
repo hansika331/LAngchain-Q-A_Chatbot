@@ -1,0 +1,13 @@
+streamlit
+langchain
+transformers
+huggingface-hub
+python-dotenv
+pyttsx3
+SpeechRecognition
+torch
+pytorch-lightning
+sentencepiece
+scipy
+numpy
+pyaudio; platform_system == "Windows"
